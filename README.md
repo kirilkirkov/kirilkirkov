@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I am a Professional Full Stack Web Developer with more than 10 years experience of building enterprise web applications in big international companies.</p>
+<p>I am a Professional Full Stack Web Developer with more than 10 years experience of building enterprise web applications like high security bank websites, high traffic ecommerce and many more in big international companies. In my profile you may find a large number of supported Open Source projects like Ecommerce, Api Integrations, etc.</p>
 
 #### Tech Stack
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
