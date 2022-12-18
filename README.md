@@ -15,6 +15,6 @@
 <p>Find out Free and Premium WordPress Plugins - <a href="https://github.com/Wordpress-Plugins-World" target="_blank">Wordpress-Plugins-World</a></p>
 
 #### List Of Some Professional Plugins
-- <a href="https://codecanyon.net/item/wp-invoices-pdf-electronic-invoicing-system/36891583" target="_blank">WP Invoices - PDF Electronic Invoicing System</a>
-- <a href="https://codecanyon.net/item/agile-scrum-project-issue-management/36720961" target="_blank">Agile Scrum - Project Issue Management</a>
-- <a href="https://codecanyon.net/item/login-defender/36504462" target="_blank">Administration Login Defender</a>
+- <a href="https://codecanyon.net/item/wp-invoices-pdf-electronic-invoicing-system/36891583" target="_blank">WordPress Invoices - PDF Electronic Invoicing System with WooCommerce Integration</a>
+- <a href="https://codecanyon.net/item/agile-scrum-project-issue-management/36720961" target="_blank">Agile Scrum - WordPress Project Issue Management</a>
+- <a href="https://codecanyon.net/item/login-defender/36504462" target="_blank">WordPress Administration Login Defender</a>
