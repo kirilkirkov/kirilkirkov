@@ -14,7 +14,10 @@
 
 # 🚀 Fast & Scalable File Conversion API
 
-Looking for a fast and reliable way to convert your files? Check out this powerful API at <a href="https://tigerra.com" target="_blank">Tigerra.com</a> that seamlessly handles video, audio, images, and documents. Perfect for businesses and developers who need efficient, scalable, and high-quality file conversions. Get started now and boost your productivity!
+<p>Looking for a fast and reliable way to convert your files? Check out this powerful API at <a href="https://tigerra.com" target="_blank">Tigerra.com</a> that seamlessly handles video, audio, images, fonts and documents. <br/>
+It also offers PDF Utilities and Audio Effects like <b>3D Audio</b>, <b>Bass Booster</b>, <b>Volume Changer</b>, and many more. <br/>
+Perfect for businesses and developers who need efficient, scalable, and high-quality file conversions. <br />
+Get started now and boost your productivity!</p>
 
 #### Stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkirilkirkov%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
