@@ -43,6 +43,9 @@ Turn every shopping experience into an opportunity to upsell and cross-sell.
 - Performance-based logic (SEO Friendly and Lightning Fast)
 - Full Visual Control
 - Included <b>Product pages</b>, <b>Cart</b>, <b>Checkout</b>, <b>Post-purchase</b>
+- Frequently Bought Together
+- Spin to Win
+- Free Shipping Bar
 
 
 ## 🧾 Invoct – PDF Invoices & Billing for WooCommerce
