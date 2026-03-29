@@ -46,6 +46,7 @@ Turn every shopping experience into an opportunity to upsell and cross-sell.
 - Frequently Bought Together
 - Spin to Win
 - Free Shipping Bar
+- Delivery Estimator
 
 
 ## 🧾 Invoct – PDF Invoices & Billing for WooCommerce
