@@ -3,7 +3,7 @@
 SaaS founder & full-stack engineer focused on building scalable eCommerce growth systems.
 I build revenue-focused products for eCommerce and online businesses.
 
-🚀 Founder of Qubly.ai <br>
+🚀 Founder of Qubly.ai (Shopify App) <br>
 🚀 Founder of SmartSellio (Shopify App) <br>
 🧾 Creator of Invoct (WordPress Invoice Plugin)
 
