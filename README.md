@@ -3,6 +3,7 @@
 SaaS founder & full-stack engineer focused on building scalable eCommerce growth systems.
 I build revenue-focused products for eCommerce and online businesses.
 
+🚀 Founder of Qubly.ai <br>
 🚀 Founder of SmartSellio (Shopify App) <br>
 🧾 Creator of Invoct (WordPress Invoice Plugin)
 
@@ -26,6 +27,21 @@ Focused on: scalable backend systems, eCommerce automation, and monetization-dri
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## 🚀 Qubly.ai
+AI-Powered Growth Automation for Modern eCommerce Brands!
+
+- 🔗 Shopify App Store: https://apps.shopify.com/qubly
+- 🌍 Website: https://qubly.ai/
+
+Qubly.ai helps online businesses automate marketing workflows, customer engagement, and revenue optimization using intelligent AI-driven systems.
+Built for scalable growth, personalization, and conversion-focused automation.
+
+### 🔥 Key Features
+- Vector Search
+- Conversational AI (AI Chat Assistant)
+- LLM Re-rank
+- Multilingual 
 
 ## 🛍 SmartSellio
 Boost Your Shopify Sales with Smart Product Recommendations!
