@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kiril Kirkov
 
-Full-stack engineer building AI-powered SaaS products for eCommerce and online businesses.
+Senior Full-stack engineer working mostly with Node.js, TypeScript, PHP/Laravel and distributed systems. 
 
 SaaS founder of:
 - 🚀 [Qubly.ai](https://qubly.ai/) — AI Sales Assistant for Shopify.
@@ -12,8 +12,8 @@ Focused on scalable backend systems, eCommerce automation, and monetization-driv
 
 #### Tech Stack
 
-- **Backend:** Laravel, Symfony, CodeIgniter, NestJS, Node.js, WordPress
-- **Frontend:** Next.js, Nuxt.js, React, Vue.js, React Native
+- **Backend:** Laravel, Symfony, CodeIgniter, WordPress | NestJS, Node.js, TypeScript
+- **Frontend:** Next.js, Nuxt.js, React, Vue.js
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis
-- **Cloud & Infra:** AWS, Google Cloud
+- **Cloud & Infra:** GCP
 - **AI:** RAG systems, Vector Search, LLM integrations, Conversational AI
