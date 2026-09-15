@@ -3,12 +3,12 @@
 Senior Full-stack engineer working mostly with Node.js, TypeScript, PHP/Laravel and distributed systems. 
 
 SaaS founder of:
-- 🚀 [Qubly.ai](https://qubly.ai/) — AI Sales Assistant for Shopify.
-- 🚀 [SmartSellio](https://smartsellio.com/) — Product recommendations & upsells for Shopify.
-- 🧠 [Qublin](https://qublin.com/en) — Search all company knowledge with AI and cited answers.
-- 🧾 [Invoct](https://wordpress.org/plugins/kirilkirkov-pdf-invoice-manager/) — PDF invoicing & billing for WordPress and WooCommerce.
+- 🚀 [Qubly.ai](https://qubly.ai/) — AI Sales Assistant for Shopify
+- 🚀 [SmartSellio](https://smartsellio.com/) — Product recommendations & upsell for Shopify
+- 🧠 [Qublin](https://qublin.com/en) — Search all company knowledge with AI
+- 🧾 [Invoct](https://wordpress.org/plugins/kirilkirkov-pdf-invoice-manager/) — PDF invoicing & billing for WordPress and WooCommerce
 
-Focused on scalable backend systems, eCommerce automation, and monetization-driven UX.
+Focused on scalable backend systems, eCommerce automation and monetization-driven UX.
 
 #### Tech Stack
 
