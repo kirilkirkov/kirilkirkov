@@ -12,7 +12,7 @@ Focused on scalable backend systems, eCommerce automation, and monetization-driv
 
 #### Tech Stack
 
-- **Backend:** Laravel, Symfony, CodeIgniter, WordPress | NestJS, Node.js, TypeScript
+- **Backend:** Laravel, Symfony, CodeIgniter, WordPress | Express.js, Node.js, TypeScript
 - **Frontend:** Next.js, Nuxt.js, React, Vue.js
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud & Infra:** GCP
