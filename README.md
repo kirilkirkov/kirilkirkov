@@ -10,6 +10,9 @@ SaaS founder of:
 
 Focused on scalable backend systems, eCommerce automation and monetization-driven UX.
 
+🛠 Open Source & GitHub Actions
+- ⚡ [CounterPatch](https://github.com/marketplace/actions/counterpatch) — Adversarial regression testing for code patches. Published as a GitHub Marketplace Action.
+
 #### Tech Stack
 
 - **Backend:** Laravel, Symfony, CodeIgniter, WordPress | Express.js, Node.js, TypeScript
