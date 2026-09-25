@@ -10,8 +10,9 @@ SaaS founder of:
 
 Focused on scalable backend systems, eCommerce automation and monetization-driven UX.
 
-🛠 Open Source & GitHub Actions
+🛠 GitHub Actions
 - ⚡ [CounterPatch](https://github.com/marketplace/actions/counterpatch) — Adversarial regression testing for code patches. Published as a GitHub Marketplace Action.
+- ⚡ [ResilienceCheck](https://github.com/marketplace/actions/resiliencecheck) — Test Node.js services for event-loop blocking, retry storms, backpressure, concurrency bugs and broken shutdowns as a GitHub Marketplace Action.
 
 #### Tech Stack
 
